@@ -1,5 +1,5 @@
 # C# katas-tester
-This is a file that contains my work on solving several Katas found on Code Wars.
+This is a file that contains my work on solving several Katas found on [Code Wars](https://www.codewars.com).
 
 Some are completed. Some are not. 
 
